@@ -72,7 +72,7 @@ and configurations.
 Some of the builds run on remote systems and may fail from time to time due to connectivity problems. The console
 output is available and usually very informative when builds fail.
 
-Build status for the [Github mirrors](https://github.com/xiph/) and test results for pull requests there are provided by
+Build status for the [GitHub mirrors](https://github.com/xiph/) and test results for pull requests there are provided by
 [Travis](https://travis-ci.org/) and [AppVeyor](https://appveyor.com).
 
 <ul>
